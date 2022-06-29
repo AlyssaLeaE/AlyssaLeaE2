@@ -1,1 +1,2 @@
-# AlyssaLeaE2
+Welcome to my GitHub profile
+Regards Alyssa
